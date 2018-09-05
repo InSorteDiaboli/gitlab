@@ -4,3 +4,5 @@ bananer
 mælk
 juice - mango
 æg
+pandamælk
+mælkesnitter
