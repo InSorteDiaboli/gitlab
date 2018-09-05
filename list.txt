@@ -2,3 +2,5 @@ min nye indkøbsliste F3-Branch
 æbler
 bananer
 mælk
+pandamælk
+mælkesnitter
